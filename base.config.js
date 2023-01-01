@@ -1,8 +1,9 @@
 module.exports = {
     // api
     baseURL: 'localhost',
-    sessionSecret: '',
+    clientId: '', // Bot id
+    clientSecret: '', // Bot secret
 
     // bot
-    token: ''
+    token: '',
 }

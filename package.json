@@ -7,9 +7,9 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
+    "btoa": "^1.2.1",
     "discord.js": "^14.7.1",
     "express": "^4.18.2",
-    "express-session": "^1.17.3",
     "fs": "^0.0.1-security"
   }
 }

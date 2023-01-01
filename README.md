@@ -2,6 +2,6 @@
 An open source discord bot to restore members from a guild to another guild
 
 ## TO-DO
-- [ ] Database
-- [ ] API (for verifying member and joining guilds)
-- [ ] Commands
+- [x] Database
+- [x] API (for verifying member and joining guilds)
+- [ ] Finish bot / Add commands
